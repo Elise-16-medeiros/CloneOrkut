@@ -1,0 +1,19 @@
+body {
+    background: #D9E6F6;
+}
+
+.meio {
+    margin-left: -5rem;
+    margin-top: 2rem;
+    
+}
+
+.esquerdo {
+    margin-right: -2rem;
+    margin-top: 2rem;
+}
+
+.direito {
+    margin-left: -2rem;
+    margin-top: 10px;
+}

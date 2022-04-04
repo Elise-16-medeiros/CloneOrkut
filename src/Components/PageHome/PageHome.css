@@ -1,0 +1,21 @@
+.area {
+    margin-left: 0px;
+    width: 67vh;
+    height: 20vh;
+    background-color: #D9E6F6;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.display-5 {
+    padding: 1rem;
+}
+
+.titulo {
+    padding: 2px;
+    margin-left: 1rem;
+}
+
+.botoes {
+    margin-left: 1rem;
+}
